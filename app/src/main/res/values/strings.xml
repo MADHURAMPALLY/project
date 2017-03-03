@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Project Manager</string>
+    <string name="signin"><i>Sign In</i></string>
+    <string name="Register"><i>New User/Register</i></string>
+
+</resources>
